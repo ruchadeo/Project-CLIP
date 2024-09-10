@@ -38,8 +38,6 @@ Contributions are welcome! If you find any bugs or have ideas for improvements, 
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a pull request
 
-Please ensure your code follows the project guidelines and includes relevant tests where applicable.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
